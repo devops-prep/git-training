@@ -1,1 +1,2 @@
 file
+git remote set-url origin git+ssh://git@github.com/username/reponame.git
